@@ -3,7 +3,7 @@
 ## 🚘 Overview
 **GearHub** is a full-stack social network platform designed for users and auto workshops. It enables users to manage their vehicles, live-messaging between users and workshops, track maintenance history, and participate in forum discussions. Workshops can manage services, respond to inquiries, and enhance visibility. Users can review workshops and add vehicles to their profiles. Cocreated with [José María García Sánchez](https://github.com/Terion0)
 
-Developed as a final project for the Higher technician in Multi-platform Applications development.
+Developed as a final project for the Higher technician in Multi-platform Applications development degree.
 
 ---
 
@@ -66,7 +66,7 @@ The full system can be deployed using `docker-compose`:
 ```bash
 git clone https://github.com/rasitoo/TFG-social_network_GEARHUB.git
 cd TFG-social_network_GEARHUB
-docker-compose up --build
+docker-compose up
 ```
 All services, including the gateway, databases, and web frontend will be launched automatically. Android apk can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1YMc2tlJxLj-K0ueN4pxn_d_T2q4AK4QY?usp=drive_link)
 
