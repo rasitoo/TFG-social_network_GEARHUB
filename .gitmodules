@@ -1,0 +1,27 @@
+[submodule "AuthApi_"]
+	path = AuthApi_
+	url = https://github.com/Terion0/AuthApi_
+[submodule "ProfApi"]
+	path = ProfApi
+	url = https://github.com/Terion0/ProfApi
+[submodule "WebApiTaller"]
+	path = WebApiTaller
+	url = https://github.com/rasitoo/WebApiTaller
+[submodule "RevApi"]
+	path = RevApi
+	url = https://github.com/Terion0/RevApi
+[submodule "ComunApi"]
+	path = ComunApi
+	url = https://github.com/Terion0/ComunApi
+[submodule "WebApiMessages"]
+	path = WebApiMessages
+	url = https://github.com/rasitoo/WebApiMessages
+[submodule "WebApiGateway"]
+	path = WebApiGateway
+	url = https://github.com/rasitoo/WebApiGateway
+[submodule "gearhub"]
+	path = gearhub
+	url = https://github.com/Terion0/gearhub
+[submodule "GearHubMobile"]
+	path = GearHubMobile
+	url = https://github.com/rasitoo/GearHubMobile
