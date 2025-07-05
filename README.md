@@ -74,7 +74,7 @@ All services, including the gateway, databases, and web frontend will be launche
 
 ## 👨‍💻 Authors
 - Rodrigo Tapiador Cano ([GitHub](https://github.com/rasitoo) · [LinkedIn](https://www.linkedin.com/in/rodrigo-tapiador-cano-162723258/))
-- José María García Sánchez ([GitHub](https://github.com/Terion0) · [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-mar%C3%ADa-garc%C3%ADa-s%C3%A1nchez-13236b176/))
+- José María García Sánchez ([GitHub](https://github.com/Terion0) · [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-mar%C3%ADa-garc%C3%ADa-s%C3%A1nchez/))
 
 ---
 
